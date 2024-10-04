@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PWII\\mvcProyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\migrations\\20241004180445_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\migrations\\20241004180445_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|c:\\pwii\\mvcproyect\\mvcproyect\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390B9BA3-51D6-49C3-BF18-875FB03B8EEC}|mvcProyect\\mvcProyect.csproj|solutionrelative:mvcproyect\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "mvcProyect\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "mvcProyect\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T18:11:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcProyect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcProyect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T18:11:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "mvcProyect\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:10:47.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Models\\Producto.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Models\\Producto.cs",
+              "RelativeToolTip": "mvcProyect\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:27:38.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "mvcProyect\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:07:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241004180445_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Migrations\\20241004180445_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Migrations\\20241004180445_PrimeraMigracion.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Migrations\\20241004180445_PrimeraMigracion.cs",
+              "RelativeToolTip": "mvcProyect\\Migrations\\20241004180445_PrimeraMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:04:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcProyect\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:22:47.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyect\\Program.cs",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\Program.cs",
+              "RelativeToolTip": "mvcProyect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:20:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyect\\appsettings.json",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\appsettings.json",
+              "RelativeToolTip": "mvcProyect\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T08:04:11.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\PWII\\mvcProyect\\mvcProyect\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "mvcProyect\\appsettings.Development.json",
+              "ToolTip": "C:\\PWII\\mvcProyect\\mvcProyect\\appsettings.Development.json",
+              "RelativeToolTip": "mvcProyect\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T08:13:27.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
